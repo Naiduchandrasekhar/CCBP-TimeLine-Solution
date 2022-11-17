@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.mainContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.chronoContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  max-width: 1149px;
+  min-height: 100vh;
+}
+
+.myJourney {
+  color: #1e293b;
+  font-size: 17px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.ccbp {
+  color: #1e293b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
